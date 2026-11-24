@@ -1,0 +1,19 @@
+{
+  "_comment": "Where ArchaicLib downloads the original files of this port from. Edit freely; set locked=true to keep your edits when the mod updates. Files go to archaic_originals/ and are checked by sha256.",
+  "port": "mobats",
+  "version": 3,
+  "locked": false,
+  "files": [
+    {
+      "file": "mo_pigs_1.0.jar",
+      "name": "mo_pigs_1.0.jar - Mo Pigs Mod 1.0 for 1.7.10 (by bigboom)",
+      "sha256": "5f179c6598d0270ff645af83eafe0c555ad253e3bc479709cd2cd03738f36190",
+      "size": 95672,
+      "page": "https://www.9minecraft.net/mo-pigs-mod/",
+      "mirrors": [
+        "scrape:https://files2.9minecraft.net/index.php?act=dl&id=1687309899 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1687309899&(?:amp;)?hash=[a-f0-9]+",
+        "scrape:https://files2.mc-mod.net/index.php?act=dl&id=1687309899 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1687309899&(?:amp;)?hash=[a-f0-9]+"
+      ]
+    }
+  ]
+}
